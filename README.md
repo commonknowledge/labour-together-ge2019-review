@@ -31,7 +31,7 @@ It highlights problems of producing technology by the Labour Party and makes spe
 
 ## Labour Party Organisational Structure
 
-We also publish and organisational chart that shows how the Labour Party is structured. This allowed us to navigate some of our work and make conclusions on how this structure, and the decision making it allowed, significantly weakened Labour's campaign.
+We also publish an organisational chart that shows how the Labour Party is structured. This allowed us to navigate some of our work and make conclusions on how this structure, and the decision making it allowed, significantly weakened Labour's campaign.
 
 <a href="https://whimsical.com/M8tVcVzqDWX1GEZLpKxsVV#VsSo8s35UryBjXUEZpKiAM">Labour Party Organogram</a>
 
