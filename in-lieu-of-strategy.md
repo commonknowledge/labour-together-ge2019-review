@@ -1,7 +1,5 @@
 # Contents
 
-[<span class="underline">Contents</span>](#contents)
-
 [<span class="underline">Key insights</span>](#key-insights)
 
 [<span class="underline">The challenge of objectively evaluating the party</span>](#the-challenge-of-objectively-evaluating-the-party)
