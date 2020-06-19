@@ -221,8 +221,7 @@ few reasons:
   the likelihood of introducing new bugs and decreasing reliability
   and makes fixing bugs less straightforward and self-explanatory.
   **In light of the serious reliability issues faced by users in
-  this election, this catch-22 is a serious cause for concern.  
-  **
+  this election, this catch-22 is a serious cause for concern.**
 
 - Onboarding a new engineer requires the time and attention of a
   team member. This is normally not a serious problem but the Labour
