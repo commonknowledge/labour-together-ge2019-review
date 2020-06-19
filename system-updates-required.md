@@ -204,25 +204,25 @@ few reasons:
   substantial resources and is often deferred until after
   high-intensity periods like election campaigns.
 
-  > Unfortunately, because there is only one full-time developer and
-  > contractors are only hired for the course of an election, new
-  > systems and changes to existing systems are often never
-  > documented. On the other hand, because systems are not documented,
-  > it takes more time to “onboard” a new engineer—i.e. familiarise
-  > them with the systems and development processes—before they can
-  > begin to be helpful. Knowing this was the case, Common Knowledge
-  > offered our skills in documenting and providing setup automations
-  > or instructions for each system in order to anticipate this
-  > situation and quoted for it. This was in August 2019. The proposal
-  > for this was blocked by the Director of Technology and this work
-  > did not go ahead.
-  >
-  > This clear case of catch-22 has a knock-on effect: it increases
-  > the likelihood of introducing new bugs and decreasing reliability
-  > and makes fixing bugs less straightforward and self-explanatory.
-  > **In light of the serious reliability issues faced by users in
-  > this election, this catch-22 is a serious cause for concern.  
-  > **
+  Unfortunately, because there is only one full-time developer and
+  contractors are only hired for the course of an election, new
+  systems and changes to existing systems are often never
+  documented. On the other hand, because systems are not documented,
+  it takes more time to “onboard” a new engineer—i.e. familiarise
+  them with the systems and development processes—before they can
+  begin to be helpful. Knowing this was the case, Common Knowledge
+  offered our skills in documenting and providing setup automations
+  or instructions for each system in order to anticipate this
+  situation and quoted for it. This was in August 2019. The proposal
+  for this was blocked by the Director of Technology and this work
+  did not go ahead.
+
+  This clear case of catch-22 has a knock-on effect: it increases
+  the likelihood of introducing new bugs and decreasing reliability
+  and makes fixing bugs less straightforward and self-explanatory.
+  **In light of the serious reliability issues faced by users in
+  this election, this catch-22 is a serious cause for concern.  
+  **
 
 - Onboarding a new engineer requires the time and attention of a
   team member. This is normally not a serious problem but the Labour
