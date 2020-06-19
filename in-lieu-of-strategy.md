@@ -539,8 +539,7 @@ To encourage greater accessibility and transparency between party and
 community.
 
 - All general meetings to be made available to the public and
-  advertised as forums to discuss local issues.\*\*  
-  \*\*
+  advertised as forums to discuss local issues.
 
 - Encourage and fund delegations of members to meet with members in
   neighbouring branches and constituencies and regions for
@@ -566,11 +565,9 @@ Measurements might include:
   members have shown up each month with a tick box. Can be
   self-reported and/or noted by constituency organisers/officers.
 
-- **Three month rolling new members  
-  **
+- Three month rolling new members
 
-- **Three month rolling lapsed members  
-  **
+* Three month rolling lapsed members
 
 - **Digital access rate (%)** of CLP and BLP officers with
   self-reported correct **access** to core tools like Organise,
@@ -584,20 +581,17 @@ Measurements might include:
   individualised voters, rather than everyday interactions between
   party members and their fellow community neighbours.
 
-  - **Three month rolling contact rate  
-    **
+  - Three month rolling contact rate
 
-  - **Average age of party preference report  
-    **
+  - Average age of party preference report
 
-  - **Monthly rolling weekly resident contacts per councillor /
-    organiser / caseworker  
-    **
+  - Monthly rolling weekly resident contacts per councillor /
+    organiser / caseworker
 
-  - **Diarised casework and resident contact activities by elected
-    officials such as councillors, MPs**
+* Diarised casework and resident contact activities by elected
+  officials such as councillors, MPs
 
-- A national listening campaign which also builds visibility, local
+* A national listening campaign which also builds visibility, local
   party activity, leading to a handful of national campaigns per
   year, that can link the air war and local organising. E.g. renter
   rights, £10 min wage. This would simplify production of generic
@@ -605,7 +599,7 @@ Measurements might include:
   local party members and community\*\*  
   \*\*
 
-- Political and communication strategy and production should be much
+* Political and communication strategy and production should be much
   more focused on the story of "us, not me" community relationships,
   consensus-building, policy-design and organising by communities
   themselves, rather than the menu of output policies.
