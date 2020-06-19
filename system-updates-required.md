@@ -194,10 +194,10 @@ temporary staff will be brought into teams as preparation. This is
 especially necessary in the case of the party’s software engineers for a
 few reasons:
 
-- > The party’s digital systems are not fully documented as this takes
-  > substantial resources and is often deferred until after
-  > high-intensity periods like election campaigns.
-  >
+- The party’s digital systems are not fully documented as this takes
+  substantial resources and is often deferred until after
+  high-intensity periods like election campaigns.
+
   > Unfortunately, because there is only one full-time developer and
   > contractors are only hired for the course of an election, new
   > systems and changes to existing systems are often never
@@ -218,21 +218,21 @@ few reasons:
   > this election, this catch-22 is a serious cause for concern.  
   > **
 
-- > Onboarding a new engineer requires the time and attention of a
-  > team member. This is normally not a serious problem but the Labour
-  > Party’s Digital Organising team is responsible for seven live
-  > systems with only one full-time developer with support from the
-  > team head. **When the hiring embargo was lifted at the start of
-  > the election campaign, the digital team staff were preoccupied
-  > with hiring and onboarding new staff** which took their attention
-  > away from pressing work to be done on systems like Dialogue, which
-  > was deployed late and without adequate testing.
+- Onboarding a new engineer requires the time and attention of a
+  team member. This is normally not a serious problem but the Labour
+  Party’s Digital Organising team is responsible for seven live
+  systems with only one full-time developer with support from the
+  team head. **When the hiring embargo was lifted at the start of
+  the election campaign, the digital team staff were preoccupied
+  with hiring and onboarding new staff** which took their attention
+  away from pressing work to be done on systems like Dialogue, which
+  was deployed late and without adequate testing.
 
-- > Because of the relative difficulty with hiring competent and
-  > correctly-skilled software engineers, a lead time of many weeks if
-  > not months is usually factored in for hires. In this case, **the
-  > Digital Organising team was only at full capacity two weeks into
-  > the six week campaign.**
+- Because of the relative difficulty with hiring competent and
+  correctly-skilled software engineers, a lead time of many weeks if
+  not months is usually factored in for hires. In this case, **the
+  Digital Organising team was only at full capacity two weeks into
+  the six week campaign.**
 
 Especially given the need for inter-constituency campaigning and the
 resulting need across the party for Dialogue, this case seems to be a
@@ -304,18 +304,18 @@ core Labour Party tools. As noted, there a substantial section of the
 membership from the digital technology community that supports and
 campaigns for the Labour Party, but:
 
-1.  > They are not able to contribute towards the party’s
-    > infrastructure, such as fixing bugs, adding simple improvements of
-    > usability, or optionally new features, because the code is closed
-    > to the public and there is no technical documentation.
+1.  They are not able to contribute towards the party’s
+    infrastructure, such as fixing bugs, adding simple improvements of
+    usability, or optionally new features, because the code is closed
+    to the public and there is no technical documentation.
 
-2.  > Nor do they have access to sufficient data to provide analysis and
-    > insight, despite a large data science capacity within the Campaign
-    > Lab community.
+2.  Nor do they have access to sufficient data to provide analysis and
+    insight, despite a large data science capacity within the Campaign
+    Lab community.
 
-3.  > Finally, there is a lack of clarity over the party’s digital (and
-    > campaigning) strategy that hinders coordinated action by party
-    > activists.
+3.  Finally, there is a lack of clarity over the party’s digital (and
+    campaigning) strategy that hinders coordinated action by party
+    activists.
 
 Both Labour and Momentum did development in closed repositories on
 GitHub and GitLab respectively. There is also long debate over whether
@@ -326,17 +326,17 @@ by ‘hackers’ or stolen for use by ‘the other side’.
 To these points our recommendations are to take a pragmatic and staged
 approach to open development:
 
-- > A phased rollout to additional volunteers, supported by an
-  > increased staff, can seek to document and close off critical bugs,
-  > with a defined pathway to full open source.
+- A phased rollout to additional volunteers, supported by an
+  increased staff, can seek to document and close off critical bugs,
+  with a defined pathway to full open source.
 
-- > Orienting the party’s digital tools towards its unique capacity to
-  > organise a mass membership will mean that the “system” is not just
-  > reliant on smart software, but will also require the same social
-  > base. You cannot download people, after all. Tools will be useless
-  > for other organisations without these numbers of people. We note
-  > that Dominic Cummings has open sourced the Brexit campaign’s
-  > digital platform.\[6\]
+- Orienting the party’s digital tools towards its unique capacity to
+  organise a mass membership will mean that the “system” is not just
+  reliant on smart software, but will also require the same social
+  base. You cannot download people, after all. Tools will be useless
+  for other organisations without these numbers of people. We note
+  that Dominic Cummings has open sourced the Brexit campaign’s
+  digital platform.\[6\]
 
 ## Staff contentions rather than collaboration
 
@@ -476,9 +476,9 @@ illustrate a second point: the Labour Party seems quite top heavy.
 
 Comments from staff seem to reflect this organisational structure:
 
-- > Numerous managerial meetings, often contentious in nature
+- Numerous managerial meetings, often contentious in nature
 
-- > Trickled down orders that vary day to day
+- Trickled down orders that vary day to day
 
 > “For the whole duration I've been here, it's been very rare to have
 > someone trying to lay out 'this is what we're trying to achieve' on a
@@ -489,16 +489,15 @@ Comments from staff seem to reflect this organisational structure:
 > kind of thing.”  
 > — staffer who was hired more than three years ago
 
-\*“It was fucking chaos, no one knew what was going on day-to-day”
-
-“Overall chaos of the grid”
-
-“No one except for the most seniors had sight of the grid”
-
-“Everything was ticking along but the broader strategy of what the
-campaign was doing just wasn't there”
-
-\*— staff seconded to Southside for the campaigning period
+> “It was fucking chaos, no one knew what was going on day-to-day”
+>
+> “Overall chaos of the grid”
+>
+> “No one except for the most seniors had sight of the grid”
+>
+> “Everything was ticking along but the broader strategy of what the
+> campaign was doing just wasn't there”
+> — staff seconded to Southside for the campaigning period
 
 “The Party as a whole is lost and confused, they are not sure what
 direction they are heading in which results in teams not working well
@@ -521,25 +520,24 @@ From Southside staff down to constituency organisers, access to key
 tools like Contact Creator, Insight and Mosaic is regularly demanded,
 contested and denied.
 
-- > We heard multiple constituencies were genuinely impacted by their
-  > ability of already-struggling campaigns to effectively deploy
-  > their few resources, **refused access by staff teams after
-  > requesting it** amidst conflicting information about which roles
-  > should be allowed access.
+- We heard multiple constituencies were genuinely impacted by their
+  ability of already-struggling campaigns to effectively deploy
+  their few resources, **refused access by staff teams after
+  requesting it** amidst conflicting information about which roles
+  should be allowed access.
 
-- > In other cases, requests for access to a tool to beat impending
-  > **deadlines were frustrated by disputes and delays**, resulting in
-  > missed opportunities.
+- In other cases, requests for access to a tool to beat impending
+  **deadlines were frustrated by disputes and delays**, resulting in
+  missed opportunities.
 
-- > In other cases, a limited number of key-holders meant that
-  > campaign teams developed bottlenecks when these people were
-  > unavailable or went on holiday, **in some constituencies leaving
-  > no one able to plan doorknocking sessions during the general
-  > election.  
-  > **
+- In other cases, a limited number of key-holders meant that
+  campaign teams developed bottlenecks when these people were
+  unavailable or went on holiday, **in some constituencies leaving
+  no one able to plan doorknocking sessions during the general
+  election**.
 
-- > Access to data and tools frequently causes **disputes** and
-  > interpersonal, and in some cases inter-organisational **tensions**
+- Access to data and tools frequently causes **disputes** and
+  interpersonal, and in some cases inter-organisational **tensions**
 
 There needs to be a much more substantial review and clarification of
 how access is granted, to who, for what reasons, and **BY who.** Access
