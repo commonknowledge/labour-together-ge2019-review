@@ -333,7 +333,11 @@ Digital organising platforms like Action Network and Nation Builder,
 which the Labour Party previously paid around £200,000 per year for
 until its replacement by the bespoke *Organise* system, have long
 encoded pipeline systems for individuals that can concretise this
-approach.![](.//media/image3.png)![](.//media/image2.png)
+approach.
+
+![](.//media/image3-1.png)
+
+![](.//media/image2-1.png)
 
 ### 
 
@@ -532,7 +536,7 @@ commercial firms.** The Beto O'Rourke campaign of 2018 went so far as to
 publicly display all contact rates data on a website to enable member
 self-organisation.
 
-![](.//media/image4.png)
+![](.//media/image4-1.png)
 
 We have a series of recommendations for further discussion, development
 and inclusion in the commission’s final publication, based on the above
@@ -615,7 +619,7 @@ community.
     > consensus-building, policy-design and organising by communities
     > themselves, rather than the menu of output policies.
 
-<!-- end list -->
+-------------
 
 1.  ‘Diagnosis of Defeat: Labour’s Turn to Smell the Coffee’ (Lord
     Ashcroft Polls, 10 February 2020), 17,
