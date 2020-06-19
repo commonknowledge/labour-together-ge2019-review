@@ -1,82 +1,82 @@
-[<span class="underline">Contents</span>](#_5svg3i28xtxc)
+# Contents
 
 [<span class="underline">How Labour does digital</span>](#section)
 
-> [<span class="underline">Social media</span>](#social-media)
-> 
-> [<span class="underline">Electoral data</span>](#electoral-data)
-> 
-> [<span class="underline">Digital tools for
-> campaigning</span>](#digital-tools-for-campaigning)
-> 
-> [<span class="underline">Understaffed development team, reliance on
-> temporary
-> staff</span>](#understaffed-development-team-reliance-on-temporary-staff)
-> 
-> [<span class="underline">Hiring embargo on digital
-> staff</span>](#hiring-embargo-on-digital-staff)
-> 
-> [<span class="underline">Under-utilised digital technology
-> volunteers</span>](#under-utilised-digital-technology-volunteers)
-> 
-> [<span class="underline">Staff contentions rather than
-> collaboration</span>](#staff-contentions-rather-than-collaboration)
-> 
-> [<span class="underline">A lack of digital technology
-> leadership</span>](#a-lack-of-digital-technology-leadership)
-> 
-> [<span class="underline">Siloed and manager-heavy
-> organisation</span>](#siloed-and-manager-heavy-organisation)
+[<span class="underline">Social media</span>](#social-media)
+
+[<span class="underline">Electoral data</span>](#electoral-data)
+
+[<span class="underline">Digital tools for
+campaigning</span>](#digital-tools-for-campaigning)
+
+[<span class="underline">Understaffed development team, reliance on
+temporary
+staff</span>](#understaffed-development-team-reliance-on-temporary-staff)
+
+[<span class="underline">Hiring embargo on digital
+staff</span>](#hiring-embargo-on-digital-staff)
+
+[<span class="underline">Under-utilised digital technology
+volunteers</span>](#under-utilised-digital-technology-volunteers)
+
+[<span class="underline">Staff contentions rather than
+collaboration</span>](#staff-contentions-rather-than-collaboration)
+
+[<span class="underline">A lack of digital technology
+leadership</span>](#a-lack-of-digital-technology-leadership)
+
+[<span class="underline">Siloed and manager-heavy
+organisation</span>](#siloed-and-manager-heavy-organisation)
 
 [<span class="underline">Bugs in the
 system</span>](#bugs-in-the-ecosystem)
 
-> [<span class="underline">Access to digital
-> infrastructure</span>](#access-to-digital-infrastructure)
-> 
-> [<span class="underline">Confusion over
-> GDPR</span>](#confusion-over-gdpr)
-> 
-> [<span class="underline">Usability of digital
-> infrastructure</span>](#usability-of-digital-infrastructure)
+[<span class="underline">Access to digital
+infrastructure</span>](#access-to-digital-infrastructure)
+
+[<span class="underline">Confusion over
+GDPR</span>](#confusion-over-gdpr)
+
+[<span class="underline">Usability of digital
+infrastructure</span>](#usability-of-digital-infrastructure)
 
 [<span class="underline">Gaps in the party’s digital
 ecosystem</span>](#gaps-in-the-partys-digital-ecosystem)
 
-> [<span class="underline">Door knocking and issue
-> mapping</span>](#door-knocking-and-issue-mapping)
-> 
-> [<span class="underline">A single view of voter
-> contacts</span>](#a-single-view-of-voter-contacts)
-> 
-> [<span class="underline">A canonical solution for
-> GOTV</span>](#a-canonical-solution-for-gotv)
-> 
-> [<span class="underline">Activist
-> mobilisation</span>](#activist-mobilisation)
-> 
-> [<span class="underline">Increasing accessibility to the
-> party</span>](#_bsugvyi9bv8)
-> 
-> [<span class="underline">Community-building</span>](#_hux9f8r6kg06)
-> 
-> [<span class="underline">Crowdsourcing</span>](#_3og1bent5r84)
-> 
-> [<span class="underline">Casework</span>](#_vuj07fy9lnft)
-> 
-> [<span class="underline">Organisational
-> change</span>](#recommendations)
-> 
-> [<span class="underline">Digital team
-> change</span>](#digital-team-change)
-> 
-> [<span class="underline">Programmes and
-> initiatives</span>](#programmes-and-initiatives)
+[<span class="underline">Door knocking and issue
+mapping</span>](#door-knocking-and-issue-mapping)
+
+[<span class="underline">A single view of voter
+contacts</span>](#a-single-view-of-voter-contacts)
+
+[<span class="underline">A canonical solution for
+GOTV</span>](#a-canonical-solution-for-gotv)
+
+[<span class="underline">Activist
+mobilisation</span>](#activist-mobilisation)
+
+[<span class="underline">Increasing accessibility to the
+party</span>](#_bsugvyi9bv8)
+
+[<span class="underline">Community-building</span>](#_hux9f8r6kg06)
+
+[<span class="underline">Crowdsourcing</span>](#_3og1bent5r84)
+
+[<span class="underline">Casework</span>](#_vuj07fy9lnft)
+
+[<span class="underline">Organisational
+change</span>](#recommendations)
+
+[<span class="underline">Digital team
+change</span>](#digital-team-change)
+
+[<span class="underline">Programmes and
+initiatives</span>](#programmes-and-initiatives)
 
 Our report on the Labour Party’s digital technology comes amidst a
 general recognition that the party’s digital ecosystem is less than
 perfect, with consistent commentary about the unreliability of tools
-like *Dialogue*. The frustrations of many campaigners are linked to a
+like _Dialogue_. The frustrations of many campaigners are linked to a
 lack of clarity about digital and data and how it is managed.
 
 First we break down how Labour “does” digital from three aspects: data
@@ -89,8 +89,6 @@ dimensions.
 We finally make recommendations about filling the gaps in the party’s
 digital ecosystem, including how the Labour Party as an organisation
 will likely need to adapt to make this possible.
-
-#   
 
 # How Labour does digital
 
@@ -105,9 +103,9 @@ separately.
 This was handled variously by constituency-level volunteers, regional
 office and COU staff as well as two national teams, one reporting to
 LOTO and the other (Digital Campaigns) reporting to, according to who
-you believe, the Executive Director for Strategy and Communications *OR*
+you believe, the Executive Director for Strategy and Communications _OR_
 for Elections and Campaigns. Constituency and regional staff made
-extensive use of ***Promote.***
+extensive use of **_Promote._**
 
 ### Electoral data
 
@@ -125,7 +123,7 @@ last chance, constituency campaigns would go ‘cap in hand’ to trade
 union funding sources.
 
 Ultimately, models from the Targeting & Analysis Team were fed through
-to the ***Insight*** digital tool which made recommendations to
+to the **_Insight_** digital tool which made recommendations to
 constituency campaigners as to who to target for door-knocking,
 phonebanking, social media ads and postal mail.
 
@@ -158,8 +156,8 @@ handle issues of high usage and critical failures.
 ## Understaffed development team, reliance on temporary staff
 
 A lack of full-time development staff meant that a backlog of
-improvements, fixes and new features for tools like *Dialogue*,
-*Organise* and *Events* could not be implemented before the 2019
+improvements, fixes and new features for tools like _Dialogue_,
+_Organise_ and _Events_ could not be implemented before the 2019
 election actually began.
 
 Throughout 2018 and 2019 a series of collective messages from CLP
@@ -196,45 +194,45 @@ temporary staff will be brought into teams as preparation. This is
 especially necessary in the case of the party’s software engineers for a
 few reasons:
 
-  - > The party’s digital systems are not fully documented as this takes
-    > substantial resources and is often deferred until after
-    > high-intensity periods like election campaigns.  
-    >   
-    > Unfortunately, because there is only one full-time developer and
-    > contractors are only hired for the course of an election, new
-    > systems and changes to existing systems are often never
-    > documented. On the other hand, because systems are not documented,
-    > it takes more time to “onboard” a new engineer—i.e. familiarise
-    > them with the systems and development processes—before they can
-    > begin to be helpful. Knowing this was the case, Common Knowledge
-    > offered our skills in documenting and providing setup automations
-    > or instructions for each system in order to anticipate this
-    > situation and quoted for it. This was in August 2019. The proposal
-    > for this was blocked by the Director of Technology and this work
-    > did not go ahead.  
-    >   
-    > This clear case of catch-22 has a knock-on effect: it increases
-    > the likelihood of introducing new bugs and decreasing reliability
-    > and makes fixing bugs less straightforward and self-explanatory.
-    > **In light of the serious reliability issues faced by users in
-    > this election, this catch-22 is a serious cause for concern.  
-    > **
+- > The party’s digital systems are not fully documented as this takes
+  > substantial resources and is often deferred until after
+  > high-intensity periods like election campaigns.
+  >
+  > Unfortunately, because there is only one full-time developer and
+  > contractors are only hired for the course of an election, new
+  > systems and changes to existing systems are often never
+  > documented. On the other hand, because systems are not documented,
+  > it takes more time to “onboard” a new engineer—i.e. familiarise
+  > them with the systems and development processes—before they can
+  > begin to be helpful. Knowing this was the case, Common Knowledge
+  > offered our skills in documenting and providing setup automations
+  > or instructions for each system in order to anticipate this
+  > situation and quoted for it. This was in August 2019. The proposal
+  > for this was blocked by the Director of Technology and this work
+  > did not go ahead.
+  >
+  > This clear case of catch-22 has a knock-on effect: it increases
+  > the likelihood of introducing new bugs and decreasing reliability
+  > and makes fixing bugs less straightforward and self-explanatory.
+  > **In light of the serious reliability issues faced by users in
+  > this election, this catch-22 is a serious cause for concern.  
+  > **
 
-  - > Onboarding a new engineer requires the time and attention of a
-    > team member. This is normally not a serious problem but the Labour
-    > Party’s Digital Organising team is responsible for seven live
-    > systems with only one full-time developer with support from the
-    > team head. **When the hiring embargo was lifted at the start of
-    > the election campaign, the digital team staff were preoccupied
-    > with hiring and onboarding new staff** which took their attention
-    > away from pressing work to be done on systems like Dialogue, which
-    > was deployed late and without adequate testing.
+- > Onboarding a new engineer requires the time and attention of a
+  > team member. This is normally not a serious problem but the Labour
+  > Party’s Digital Organising team is responsible for seven live
+  > systems with only one full-time developer with support from the
+  > team head. **When the hiring embargo was lifted at the start of
+  > the election campaign, the digital team staff were preoccupied
+  > with hiring and onboarding new staff** which took their attention
+  > away from pressing work to be done on systems like Dialogue, which
+  > was deployed late and without adequate testing.
 
-  - > Because of the relative difficulty with hiring competent and
-    > correctly-skilled software engineers, a lead time of many weeks if
-    > not months is usually factored in for hires. In this case, **the
-    > Digital Organising team was only at full capacity two weeks into
-    > the six week campaign.**
+- > Because of the relative difficulty with hiring competent and
+  > correctly-skilled software engineers, a lead time of many weeks if
+  > not months is usually factored in for hires. In this case, **the
+  > Digital Organising team was only at full capacity two weeks into
+  > the six week campaign.**
 
 Especially given the need for inter-constituency campaigning and the
 resulting need across the party for Dialogue, this case seems to be a
@@ -257,8 +255,7 @@ Coders for Labour\[1\] (formerly Coders for Corbyn) is a fairly dead
 network of technical volunteers. During the campaign Coders for Labour
 updated their Labour tax calculator produced in 2017, built a tool for
 examining leaked trade documents\[2\] and updated fun Labour shareable
-sites\[3\]. But the level of activity was lower in 2019 compared to
-2017.
+sites\[3\]. But the level of activity was lower in 2019 compared to 2017.
 
 Momentum has their Momentum Tech Network. This is also under utilised,
 as Momentum has not yet substantially dedicated resources to it. Within
@@ -329,17 +326,17 @@ by ‘hackers’ or stolen for use by ‘the other side’.
 To these points our recommendations are to take a pragmatic and staged
 approach to open development:
 
-  - > A phased rollout to additional volunteers, supported by an
-    > increased staff, can seek to document and close off critical bugs,
-    > with a defined pathway to full open source.
+- > A phased rollout to additional volunteers, supported by an
+  > increased staff, can seek to document and close off critical bugs,
+  > with a defined pathway to full open source.
 
-  - > Orienting the party’s digital tools towards its unique capacity to
-    > organise a mass membership will mean that the “system” is not just
-    > reliant on smart software, but will also require the same social
-    > base. You cannot download people, after all. Tools will be useless
-    > for other organisations without these numbers of people. We note
-    > that Dominic Cummings has open sourced the Brexit campaign’s
-    > digital platform.\[6\]
+- > Orienting the party’s digital tools towards its unique capacity to
+  > organise a mass membership will mean that the “system” is not just
+  > reliant on smart software, but will also require the same social
+  > base. You cannot download people, after all. Tools will be useless
+  > for other organisations without these numbers of people. We note
+  > that Dominic Cummings has open sourced the Brexit campaign’s
+  > digital platform.\[6\]
 
 ## Staff contentions rather than collaboration
 
@@ -350,18 +347,18 @@ resources were instead diverted to other digital staff roles instead.
 
 On the other hand, many members and staff from teams that received those
 new digital staff have reported frustrations about basic reliability
-*(for example, the late development of Dialogue hindering campaigning)*
+_(for example, the late development of Dialogue hindering campaigning)_
 and at the party at large for not commiting to a digital strategy which
-enables new forms of organising.  
-  
+enables new forms of organising.
+
 There is a basic interlocking frustration between staff and members
 around tech availability on the one hand and capacity availability on
 the other. This looks like product of a lack of shared understanding
 around the resource allocation and budgeting decision of their mutual
 wider department, producing what seems to be an unproductive
-relationship.**  
-  
-**It would be expected that different staff teams work together
+relationship.\*\*
+
+\*\*It would be expected that different staff teams work together
 productively, rather being divided and put into tension against one
 another. Indeed we would advocate digital staff (software engineers or
 UX designers) being permanent members of other teams like the regional
@@ -435,8 +432,8 @@ have almost certainly improved the election result.**
 
 Digital leadership comes from managers actually committing to digital
 transformation in the whole organisation, not as “directors of
-technology” or somesuch.  
-  
+technology” or somesuch.
+
 Empirical research on digital transformation across several thousand
 organisations of various kinds has identified general “cultural and
 behavioral challenges” as the most prominent hurdle to successful
@@ -456,7 +453,7 @@ But cultural change is more difficult in older corporate forms of
 organisation that rely heavily on isolated teams and steep management
 hierarchies.
 
-## Siloed and manager-heavy organisation 
+## Siloed and manager-heavy organisation
 
 Organisational theory would suggest that good work gets done when a
 level of autonomy, mastery and a big cause to rally around is
@@ -479,9 +476,9 @@ illustrate a second point: the Labour Party seems quite top heavy.
 
 Comments from staff seem to reflect this organisational structure:
 
-  - > Numerous managerial meetings, often contentious in nature
+- > Numerous managerial meetings, often contentious in nature
 
-  - > Trickled down orders that vary day to day
+- > Trickled down orders that vary day to day
 
 > “For the whole duration I've been here, it's been very rare to have
 > someone trying to lay out 'this is what we're trying to achieve' on a
@@ -492,16 +489,16 @@ Comments from staff seem to reflect this organisational structure:
 > kind of thing.”  
 > — staffer who was hired more than three years ago
 
-*“It was fucking chaos, no one knew what was going on day-to-day”  
-  
-“Overall chaos of the grid”  
-  
-“No one except for the most seniors had sight of the grid”  
-  
+\*“It was fucking chaos, no one knew what was going on day-to-day”
+
+“Overall chaos of the grid”
+
+“No one except for the most seniors had sight of the grid”
+
 “Everything was ticking along but the broader strategy of what the
-campaign was doing just wasn't there”  
-  
-*— staff seconded to Southside for the campaigning period
+campaign was doing just wasn't there”
+
+\*— staff seconded to Southside for the campaigning period
 
 “The Party as a whole is lost and confused, they are not sure what
 direction they are heading in which results in teams not working well
@@ -524,25 +521,25 @@ From Southside staff down to constituency organisers, access to key
 tools like Contact Creator, Insight and Mosaic is regularly demanded,
 contested and denied.
 
-  - > We heard multiple constituencies were genuinely impacted by their
-    > ability of already-struggling campaigns to effectively deploy
-    > their few resources, **refused access by staff teams after
-    > requesting it** amidst conflicting information about which roles
-    > should be allowed access.
+- > We heard multiple constituencies were genuinely impacted by their
+  > ability of already-struggling campaigns to effectively deploy
+  > their few resources, **refused access by staff teams after
+  > requesting it** amidst conflicting information about which roles
+  > should be allowed access.
 
-  - > In other cases, requests for access to a tool to beat impending
-    > **deadlines were frustrated by disputes and delays**, resulting in
-    > missed opportunities.
+- > In other cases, requests for access to a tool to beat impending
+  > **deadlines were frustrated by disputes and delays**, resulting in
+  > missed opportunities.
 
-  - > In other cases, a limited number of key-holders meant that
-    > campaign teams developed bottlenecks when these people were
-    > unavailable or went on holiday, **in some constituencies leaving
-    > no one able to plan doorknocking sessions during the general
-    > election.  
-    > **
+- > In other cases, a limited number of key-holders meant that
+  > campaign teams developed bottlenecks when these people were
+  > unavailable or went on holiday, **in some constituencies leaving
+  > no one able to plan doorknocking sessions during the general
+  > election.  
+  > **
 
-  - > Access to data and tools frequently causes **disputes** and
-    > interpersonal, and in some cases inter-organisational **tensions**
+- > Access to data and tools frequently causes **disputes** and
+  > interpersonal, and in some cases inter-organisational **tensions**
 
 There needs to be a much more substantial review and clarification of
 how access is granted, to who, for what reasons, and **BY who.** Access
@@ -554,7 +551,7 @@ delay.
 
 There needs to be complete clarity about rights, access, provision, etc.
 
-## Confusion over GDPR 
+## Confusion over GDPR
 
 Quite aside from access and reliability, a basic problem encountered by
 people brave enough to plough ahead with phonebanking were told by
@@ -574,22 +571,22 @@ members.
 Legal clarity around the practicalities of GDPR and organising is
 urgently required.
 
-> *“GDPR, or the party's interpretation of it, has meant that the only
+> _“GDPR, or the party's interpretation of it, has meant that the only
 > way I can contact our members is through a national email system that
 > doesn't work effectively, adequately, or often enough... Over many
 > years, administrative power has been removed from CLPs and gobbled up
 > by the centre — this is bad enough: but when the centre has failed to
-> create reliable systems, it's worse.”*
-> 
-> *“Bore them into submission tactics” are required to get access to
-> digital tools*
-> 
+> create reliable systems, it's worse.”_
+>
+> _“Bore them into submission tactics” are required to get access to
+> digital tools_
+>
 > — CLP officers
 
 ## Usability of digital infrastructure
 
-> *“My CLP has rarely, if EVER, used  
-> Contact Creator, Insight or Promote.”*  
+> _“My CLP has rarely, if EVER, used  
+> Contact Creator, Insight or Promote.”_  
 > **— CLP Secretary from the South East**
 
 A tech staffer noted that the "digital product as a whole" was not in
@@ -630,16 +627,16 @@ in, but surveys are rarely used and relations are currently limited to
 housemates.**
 
 Every other major party in the UK has a system like this. The
-**Conservatives** had *VoteSource*, a bespoke tool.\[11\]
+**Conservatives** had _VoteSource_, a bespoke tool.\[11\]
 
 > “Yes ... we’ve covered that,” the activist ploughed on. “**So how
 > would you rank the parties on a scale of 0 to 10**, where 0 is no
 > chance you would vote for them, and 10 is you definitely would? How
 > about the Conservative Party?” \[12\]
 
-The **Liberal** **Democrats** have *MiniVAN*, the same tool that the
+The **Liberal** **Democrats** have _MiniVAN_, the same tool that the
 Democrats use — an off the shelf legacy from Obama years, turned into a
-commercial company.\[13\] And the Brexit Party had *Pericles* which not
+commercial company.\[13\] And the Brexit Party had _Pericles_ which not
 only facilitated doorknocking, but on polling day also facilitated GOTV
 by <span class="underline"> </span> **highlighting not-yet-voted pledges
 on a map.**\[14\]
@@ -671,7 +668,7 @@ One issue is that, as most Labour Party canvassing still takes place
 with paper sheets where the data might not be entered for a few days,
 there is a significant risk of people being knocked multiple times in
 quick succession, especially if everyone follows the recommended model
-of where to knock next via the *Insight* tool. But this is not a problem
+of where to knock next via the _Insight_ tool. But this is not a problem
 that, for example, the Brexit Party will have as they don't have any
 other canvassing infrastructure.
 
@@ -684,11 +681,11 @@ There must be a solution which can win us votes.
 
 ## Activist mobilisation
 
-> *“It seems to me that a key problem is that Organise is very
+> _“It seems to me that a key problem is that Organise is very
 > Campaigning oriented, and **has not been designed for the day to day
 > activities that CLP secretaries perform as the major part of their
 > role.** This lack of understanding has given rise to many of the other
-> issues... raised.”*  
+> issues... raised.”_  
 > **— CLP secretary’s email to the central office**
 
 Labour used to use Nationbuilder on a £200,000 / year contract, which
@@ -702,14 +699,14 @@ collectively send letters to party management.
 Areas of opportunity for the Organise platform, or an alternate contact
 management system include:
 
-  - > Integrate with voter data (e.g. Contact Creator), so that voters
-    > can be identified as supporters and moved towards party activism.
+- > Integrate with voter data (e.g. Contact Creator), so that voters
+  > can be identified as supporters and moved towards party activism.
 
 <!-- end list -->
 
-  - > Training local party organisers in effective digital organising
-    > using existing digital tools and methodologies. Examples include
-    > wall-charting, community mapping and social media good practice.
+- > Training local party organisers in effective digital organising
+  > using existing digital tools and methodologies. Examples include
+  > wall-charting, community mapping and social media good practice.
 
 # Recommendations
 
@@ -718,81 +715,81 @@ changes that should be considered.
 
 ## Organisational change
 
-  - > Any plan is better than no plan. The Labour Party must always have
-    > an objective that is shared amongst the team.
+- > Any plan is better than no plan. The Labour Party must always have
+  > an objective that is shared amongst the team.
 
-  - > No more restricting the flow of information about basic
-    > operational matters like scheduling. No campaign is worth
-    > sacrificing team coordination for a spectacular reveal. Find a
-    > better strategy.
+- > No more restricting the flow of information about basic
+  > operational matters like scheduling. No campaign is worth
+  > sacrificing team coordination for a spectacular reveal. Find a
+  > better strategy.
 
-  - > Re-role a whole wrung of managers to field organiser functions, to
-    > cut down on managers and increase the work that is done and the
-    > understanding on the ground about the work to be done.
+- > Re-role a whole wrung of managers to field organiser functions, to
+  > cut down on managers and increase the work that is done and the
+  > understanding on the ground about the work to be done.
 
 ## Digital team change
 
-  - > Hire a substantial full-time permanent digital organizing team of
-    > 3x developers, 1x product designer, 1x user researcher to
-    > accompany the existing team lead, developer and product manager.
+- > Hire a substantial full-time permanent digital organizing team of
+  > 3x developers, 1x product designer, 1x user researcher to
+  > accompany the existing team lead, developer and product manager.
 
-  - > More than an ad-hoc digital strategy is required to facilitate the
-    > digital estate of a party of 500,000 members with an annual
-    > revenue of £60,000,000 and dozens of digital systems.
+- > More than an ad-hoc digital strategy is required to facilitate the
+  > digital estate of a party of 500,000 members with an annual
+  > revenue of £60,000,000 and dozens of digital systems.
 
-  - > Digital space should be considered a core component of the party’s
-    > electoral strategy, as it is an increasingly influential space
-    > through which voter opinion evolves.
+- > Digital space should be considered a core component of the party’s
+  > electoral strategy, as it is an increasingly influential space
+  > through which voter opinion evolves.
 
 ## Programmes and initiatives
 
-  - > Make a medium-term commitment to disengage from Experian and end
-    > consumer surveillance as an electoral tool as a matter of
-    > principle. In order to do this, the Labour Party will have to
-    > commit to exploring and doubling down on alternative, less
-    > individualising and atomising forms of political organising that
-    > rely less on microtargeting — reliant on HQ — and more on
-    > relational organising — reliant on everyday members.
+- > Make a medium-term commitment to disengage from Experian and end
+  > consumer surveillance as an electoral tool as a matter of
+  > principle. In order to do this, the Labour Party will have to
+  > commit to exploring and doubling down on alternative, less
+  > individualising and atomising forms of political organising that
+  > rely less on microtargeting — reliant on HQ — and more on
+  > relational organising — reliant on everyday members.
 
-  - > Mass programmes of digital tool training for members, officers,
-    > staff are required to leverage the existing tools at their
-    > disposal.
+- > Mass programmes of digital tool training for members, officers,
+  > staff are required to leverage the existing tools at their
+  > disposal.
 
-  - > A streamlined and standardised system for granting access to
-    > critical digital tools for organising, visible to all party
-    > members, to ensure the right people have credentials for the right
-    > tools.
+- > A streamlined and standardised system for granting access to
+  > critical digital tools for organising, visible to all party
+  > members, to ensure the right people have credentials for the right
+  > tools.
 
-  - > Legal clarity around the practicalities of GDPR and organising is
-    > urgently required, available to all party members.
+- > Legal clarity around the practicalities of GDPR and organising is
+  > urgently required, available to all party members.
 
-  - > A public roadmap of what is being built / fixed / improved in the
-    > next while. It is de rigueur for digital teams to have a public
-    > roadmap in commercial products.
+- > A public roadmap of what is being built / fixed / improved in the
+  > next while. It is de rigueur for digital teams to have a public
+  > roadmap in commercial products.
 
 <!-- end list -->
 
-  - > Digital tool uptime figures for all tools, with a central channel
-    > for status reports, to address the problem of uncertainty around
-    > digital tools’ availability.**  
-    > **![](.//media/image4.png)
+- > Digital tool uptime figures for all tools, with a central channel
+  > for status reports, to address the problem of uncertainty around
+  > digital tools’ availability.\*\*  
+  > \*\*![](.//media/image4.png)
 
 > Such systems also enable this to be tracked. The aim is not to
 > apportion blame but to highlight to party leadership and the
 > membership at large what the scale of the problem is, so that informed
 > decision making can occur.
 
-  - > Develop a strategy for an open technology platform that third
-    > party developers and activists can use to facilitate their own
-    > organising through the party, and contribute back to the system
-    > through hackathons and volunteer management.
+- > Develop a strategy for an open technology platform that third
+  > party developers and activists can use to facilitate their own
+  > organising through the party, and contribute back to the system
+  > through hackathons and volunteer management.
 
-  - > Existing digital tools need to be vetted for their
-    > mobile-responsiveness and availability when offline or out of
-    > signal, for example in rural areas or high-rise tower blocks. More
-    > generally, accessibility needs to be upheld as a core principle in
-    > the Labour Party staff development community and facilitated by
-    > management through funding.
+- > Existing digital tools need to be vetted for their
+  > mobile-responsiveness and availability when offline or out of
+  > signal, for example in rural areas or high-rise tower blocks. More
+  > generally, accessibility needs to be upheld as a core principle in
+  > the Labour Party staff development community and facilitated by
+  > management through funding.
 
 <!-- end list -->
 
@@ -820,7 +817,7 @@ changes that should be considered.
     https://publications.ncvo.org.uk/road-ahead-2020/.
 
 8.  Julie Goran, Laura LaBerge, and Ramesh Srinivasan, ‘Culture for a
-    Digital Age’, *McKinsey Quarterly*, July 2017, 10.
+    Digital Age’, _McKinsey Quarterly_, July 2017, 10.
 
 9.  ‘The Five Trademarks of Agile Organizations | McKinsey’, accessed 16
     June 2020,
@@ -839,7 +836,7 @@ changes that should be considered.
 13. [<span class="underline">https://apps.apple.com/gb/app/minivan-touch/id352087547</span>](https://apps.apple.com/gb/app/minivan-touch/id352087547)
 
 14. Gavin Haynes, ‘The Technology That Could Help the Brexit Party Win
-    an Election’, *Vice* (blog), 12 September 2019,
+    an Election’, _Vice_ (blog), 12 September 2019,
     https://www.vice.com/en\_uk/article/vb574x/brexit-party-pericles-election-app.
 
 15. https://www.linkedin.com/in/joshua-graham-140a43a6
