@@ -32,38 +32,38 @@ machine as it was available in the Autumn of 2019.
 
 ## Key insights
 
-  - > This report's top line assessment of the Labour Party's 2019
-    > general election campaign is that, amidst generalised uncertainty
-    > over political communications and strategy, **the party did not
-    > have a practical party-wide plan to win the election**, leaving
-    > party staff and members to conduct a conventional and fairly
-    > mediocre ground and air operation. This was described to us by
-    > various phrases amounting to "business as usual" and a redo of the
-    > 2017 campaign, a campaign itself that largely worked in the same
-    > manner as 2015. Tellingly, whilst the campaign seems to have
-    > improved in terms of a few operational metrics since 2017, it
-    > clearly failed in many practical regards (not to mention
-    > political) and by some notable measures, likely degraded.
+  - This report's top line assessment of the Labour Party's 2019
+    general election campaign is that, amidst generalised uncertainty
+    over political communications and strategy, **the party did not
+    have a practical party-wide plan to win the election**, leaving
+    party staff and members to conduct a conventional and fairly
+    mediocre ground and air operation. This was described to us by
+    various phrases amounting to "business as usual" and a redo of the
+    2017 campaign, a campaign itself that largely worked in the same
+    manner as 2015. Tellingly, whilst the campaign seems to have
+    improved in terms of a few operational metrics since 2017, it
+    clearly failed in many practical regards (not to mention
+    political) and by some notable measures, likely degraded.
 
 <!-- end list -->
 
-  - > **Member activity to be stoked.** Fundamental voter ID operations
-    > were inhibited by **a lack of year-round membership activism**,
-    > with officers and staff wishing for more involvement whilst both
-    > recent and long-term members are uncertain about how to get
-    > involved and in many cases are passively dissuaded by their
-    > experiences with the local constituency and general party
-    > apparatus.
+  - **Member activity to be stoked.** Fundamental voter ID operations
+    were inhibited by **a lack of year-round membership activism**,
+    with officers and staff wishing for more involvement whilst both
+    recent and long-term members are uncertain about how to get
+    involved and in many cases are passively dissuaded by their
+    experiences with the local constituency and general party
+    apparatus.
 
-  - > **Constituency capability to be developed.** The short campaign's
-    > substantial increase in member activity did not generally mirror
-    > an improvement in the technical ability of campaigns to run an
-    > operation. The prevailing themes were **consistent uncertainty
-    > around basic rules, regulations, procedure, techniques, operations
-    > and plans, reporting lines and structures of the party.** Many
-    > members, officers and staff were led to feel variously
-    > unconfident, unskilled, unprepared and poorly resourced to run
-    > even a business as usual campaign.
+  - **Constituency capability to be developed.** The short campaign's
+    substantial increase in member activity did not generally mirror
+    an improvement in the technical ability of campaigns to run an
+    operation. The prevailing themes were **consistent uncertainty
+    around basic rules, regulations, procedure, techniques, operations
+    and plans, reporting lines and structures of the party.** Many
+    members, officers and staff were led to feel variously
+    unconfident, unskilled, unprepared and poorly resourced to run
+    even a business as usual campaign.
 
   - > **Digital access to be unlocked.** In particular, substantial
     > evidence points to **widespread irregularities in provision of
