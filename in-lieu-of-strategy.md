@@ -32,75 +32,75 @@ machine as it was available in the Autumn of 2019.
 
 ## Key insights
 
-  - This report's top line assessment of the Labour Party's 2019
-    general election campaign is that, amidst generalised uncertainty
-    over political communications and strategy, **the party did not
-    have a practical party-wide plan to win the election**, leaving
-    party staff and members to conduct a conventional and fairly
-    mediocre ground and air operation. This was described to us by
-    various phrases amounting to "business as usual" and a redo of the
-    2017 campaign, a campaign itself that largely worked in the same
-    manner as 2015. Tellingly, whilst the campaign seems to have
-    improved in terms of a few operational metrics since 2017, it
-    clearly failed in many practical regards (not to mention
-    political) and by some notable measures, likely degraded.
+- This report's top line assessment of the Labour Party's 2019
+  general election campaign is that, amidst generalised uncertainty
+  over political communications and strategy, **the party did not
+  have a practical party-wide plan to win the election**, leaving
+  party staff and members to conduct a conventional and fairly
+  mediocre ground and air operation. This was described to us by
+  various phrases amounting to "business as usual" and a redo of the
+  2017 campaign, a campaign itself that largely worked in the same
+  manner as 2015. Tellingly, whilst the campaign seems to have
+  improved in terms of a few operational metrics since 2017, it
+  clearly failed in many practical regards (not to mention
+  political) and by some notable measures, likely degraded.
 
 <!-- end list -->
 
-  - **Member activity to be stoked.** Fundamental voter ID operations
-    were inhibited by **a lack of year-round membership activism**,
-    with officers and staff wishing for more involvement whilst both
-    recent and long-term members are uncertain about how to get
-    involved and in many cases are passively dissuaded by their
-    experiences with the local constituency and general party
-    apparatus.
+- **Member activity to be stoked.** Fundamental voter ID operations
+  were inhibited by **a lack of year-round membership activism**,
+  with officers and staff wishing for more involvement whilst both
+  recent and long-term members are uncertain about how to get
+  involved and in many cases are passively dissuaded by their
+  experiences with the local constituency and general party
+  apparatus.
 
-  - **Constituency capability to be developed.** The short campaign's
-    substantial increase in member activity did not generally mirror
-    an improvement in the technical ability of campaigns to run an
-    operation. The prevailing themes were **consistent uncertainty
-    around basic rules, regulations, procedure, techniques, operations
-    and plans, reporting lines and structures of the party.** Many
-    members, officers and staff were led to feel variously
-    unconfident, unskilled, unprepared and poorly resourced to run
-    even a business as usual campaign.
+- **Constituency capability to be developed.** The short campaign's
+  substantial increase in member activity did not generally mirror
+  an improvement in the technical ability of campaigns to run an
+  operation. The prevailing themes were **consistent uncertainty
+  around basic rules, regulations, procedure, techniques, operations
+  and plans, reporting lines and structures of the party.** Many
+  members, officers and staff were led to feel variously
+  unconfident, unskilled, unprepared and poorly resourced to run
+  even a business as usual campaign.
 
-  - > **Digital access to be unlocked.** In particular, substantial
-    > evidence points to **widespread irregularities in provision of
-    > access to data and digital tools** which enable a constituency to
-    > operate even a basic campaign, with reports of explicit refusals,
-    > communication issues, uncertainty and delays sufficient enough to
-    > negatively affect numerous campaigns' basic voter contact
-    > activities.
+- **Digital access to be unlocked.** In particular, substantial
+  evidence points to **widespread irregularities in provision of
+  access to data and digital tools** which enable a constituency to
+  operate even a basic campaign, with reports of explicit refusals,
+  communication issues, uncertainty and delays sufficient enough to
+  negatively affect numerous campaigns' basic voter contact
+  activities.
 
-  - > **Technical debts to be paid.** Furthermore, although members,
-    > officers and some staff share a view that the party's digital
-    > tools are difficult to use if not basically unreliable, **there is
-    > only one permanent software developer** and **no clear strategy or
-    > investment for maintaining and developing digital tools** which
-    > facilitate constituency organising.The Voter ID-enabling suite of
-    > tools—Contact Creator, Insight and Mosaic—which are themselves
-    > increasingly in need of iteration are managed separately.
+- **Technical debts to be paid.** Furthermore, although members,
+  officers and some staff share a view that the party's digital
+  tools are difficult to use if not basically unreliable, **there is
+  only one permanent software developer** and **no clear strategy or
+  investment for maintaining and developing digital tools** which
+  facilitate constituency organising.The Voter ID-enabling suite of
+  tools—Contact Creator, Insight and Mosaic—which are themselves
+  increasingly in need of iteration are managed separately.
 
-  - > **Experimentation to replace contention.** Attitudes towards the
-    > Community Organising Unit (COU) allowed lop-sided, informal
-    > scrutiny over team performance which was not applied equally to
-    > all teams. If leant into and practiced more widely under the
-    > auspices of shared goals could form **the basis of a vibrant and
-    > innovative party campaigning culture.** At the moment it leads to
-    > unproductive interpersonal and inter organisational tensions.
+- **Experimentation to replace contention.** Attitudes towards the
+  Community Organising Unit (COU) allowed lop-sided, informal
+  scrutiny over team performance which was not applied equally to
+  all teams. If leant into and practiced more widely under the
+  auspices of shared goals could form **the basis of a vibrant and
+  innovative party campaigning culture.** At the moment it leads to
+  unproductive interpersonal and inter organisational tensions.
 
-  - > **Conventions to be transparently evaluated.** We agree with the
-    > general conclusion that, in the short campaign alone, a more
-    > effective ground operation would not be able to bridge the gulf of
-    > possibility between the party and the electorate. In fact, we are
-    > pleasantly surprised that so little preparation and campaigning
-    > has resulted in so many seats held. The party should do more to
-    > actively work outside of the short campaign. As has been generally
-    > commented on and substantiated by Lord Ashcroft's post-election
-    > voter analysis\[1\], perceptions of distant Labour councillors
-    > spoke to the perceived attitude of Labour in government and
-    > weakened the party’s trust in the eyes of the public
+- **Conventions to be transparently evaluated.** We agree with the
+  general conclusion that, in the short campaign alone, a more
+  effective ground operation would not be able to bridge the gulf of
+  possibility between the party and the electorate. In fact, we are
+  pleasantly surprised that so little preparation and campaigning
+  has resulted in so many seats held. The party should do more to
+  actively work outside of the short campaign. As has been generally
+  commented on and substantiated by Lord Ashcroft's post-election
+  voter analysis\[1\], perceptions of distant Labour councillors
+  spoke to the perceived attitude of Labour in government and
+  weakened the party’s trust in the eyes of the public
 
 ## The challenge of objectively evaluating the party
 
@@ -125,7 +125,7 @@ discussion for the themes at hand. Accessible data with which to assess
 our party's operations has arrived mainly through leaks to the press and
 in some cases through anonymous commentary to the commission, but this
 speaks to the opaqueness of a political party and contributes to our
-challenge in the Labour movement of mounting a ***constructive***
+challenge in the Labour movement of mounting a **_constructive_**
 critique of the electoral machine and the leadership of the party that
 is, ultimately, one of the most central vehicles of progressive politics
 in the United Kingdom. As this report will explore, a lack of
@@ -237,7 +237,7 @@ they were nominally part of the same campaign.
 A substantial challenge for the party in this election was to mobilise
 volunteers to canvas the electorate at their doors, in the cold and
 early darkness of late Autumn. At least one critical internal party
-report, leaked to the *Guardian*, has already broken down the
+report, leaked to the _Guardian_, has already broken down the
 dysfunctions of the Labour Party’s Voter ID operation, noting a deficit
 of skill, resources and activity amongst constituencies.\[2\] The
 commission has accumulated a bulk of evidence of the same, suggesting
@@ -274,33 +274,33 @@ report on the dysfunctions of the Labour Party and identified some
 fundamental issues which at this point are uncontroversial but worth
 restating:\[3\]
 
-  - > “A **bureaucratic** rather than a relational party culture” in
-    > local constituencies which severely limits the potential of what
-    > membership can mean.
+- “A **bureaucratic** rather than a relational party culture” in
+  local constituencies which severely limits the potential of what
+  membership can mean.
 
-  - > **Centralisation** of decision making power away from members, and
-    > towards London-based senior leaders and staff.
+- **Centralisation** of decision making power away from members, and
+  towards London-based senior leaders and staff.
 
-  - > **A closed culture,** suspicious of outsiders and inaccessible to
-    > newcomers.
+- **A closed culture,** suspicious of outsiders and inaccessible to
+  newcomers.
 
-  - > A general consensus that meetings, which comprise the bulk of
-    > regular Labour Party business, are **dull** rather than first and
-    > foremost emotionally inspiring events.
+- A general consensus that meetings, which comprise the bulk of
+  regular Labour Party business, are **dull** rather than first and
+  foremost emotionally inspiring events.
 
 Our investigation of the party in 2019 found little contrast. Graf’s
 suggestions in 2011 included:
 
-  - > A trial of **open primaries**, where parliamentary prospective
-    > candidates are selected by the electorate at large rather than by
-    > the local party membership or national party leadership.
+- A trial of **open primaries**, where parliamentary prospective
+  candidates are selected by the electorate at large rather than by
+  the local party membership or national party leadership.
 
-  - > A **supporters network membership tier**, sold to sympathetic
-    > voters as a lesser commitment than membership on a ladder to
-    > Labour Party engagement.
+- A **supporters network membership tier**, sold to sympathetic
+  voters as a lesser commitment than membership on a ladder to
+  Labour Party engagement.
 
-  - > **Collective party membership for community groups**, in the same
-    > fashion as trade union and socialist society affiliation.
+- **Collective party membership for community groups**, in the same
+  fashion as trade union and socialist society affiliation.
 
 Recommendations in this vein seek to bridge people through stages of
 lower to higher commitment, with an emphasis on increasingly practical
@@ -322,7 +322,7 @@ than of static management.
 
 Digital organising platforms like Action Network and Nation Builder,
 which the Labour Party previously paid around £200,000 per year for
-until its replacement by the bespoke *Organise* system, have long
+until its replacement by the bespoke _Organise_ system, have long
 encoded pipeline systems for individuals that can concretise this
 approach.
 
@@ -330,7 +330,7 @@ approach.
 
 ![](.//media/image2-1.png)
 
-### 
+###
 
 Much like a constituency can measure and optimise its canvassing and
 direct mail schedule, doorstep techniques and messaging to make the most
@@ -350,7 +350,7 @@ operations.
 > and still only go relatively infrequently and I'm a labour obsessive
 > that follows every turn in the media and canvassed countless hours in
 > the campaign).”
-> 
+>
 > — Canvasser from Walthamstow CLP
 
 The theme of **constituency accessibility** comes across strongly in
@@ -377,28 +377,28 @@ with residents** and submit to scrutiny and disciplining about how
 engaged in the community they were. In 2019, perceptions of Labour
 councillors were particularly dim:
 
-> *“They take our votes for granted and think we were born yesterday.”*
-> 
-> More broadly, *“I don’t think they get out and listen to people like
+> _“They take our votes for granted and think we were born yesterday.”_
+>
+> More broadly, _“I don’t think they get out and listen to people like
 > they used to. They used to be part of the local community, but they
 > became complacent. They thought ‘whatever we do we’re going to get the
 > votes off the local people, especially in the North,’ but it didn’t
-> work like that;”*
-> 
-> *“The council has been Labour all my life and they are shocking. Fly
-> tipping is awful;”*
-> 
-> *“Stoke has always been Labour but it hasn’t done us any favours. If
+> work like that;”_
+>
+> _“The council has been Labour all my life and they are shocking. Fly
+> tipping is awful;”_
+>
+> _“Stoke has always been Labour but it hasn’t done us any favours. If
 > you walk round, some of it is quite scary. It was voted the 9th worst
-> place to live;”*
-> 
-> *“Bridgend has grown exponentially but how many new hospitals and GPs
+> place to live;”_
+>
+> _“Bridgend has grown exponentially but how many new hospitals and GPs
 > have we got? You’d think they’d take these problems back to
 > Westminster. There are more and more people but there is no
-> infrastructure, no plans, nothing;”...*
-> 
-> *“In Conservative-led councils, the roads are better, the schools are
-> better.”*\[5\]
+> infrastructure, no plans, nothing;”..._
+>
+> _“In Conservative-led councils, the roads are better, the schools are
+> better.”_\[5\]
 
 Perhaps the most identifiable attempts to continue this experiment
 within the party since Graf has been the Community Organising Unit
@@ -472,40 +472,40 @@ as the prevailing measure of party performance has likely prevailed over
 and against any particular political strategy** in at least the last
 four election campaigns, and this prevailing view has repercussions.
 
-  - > Despite an explicit operating model, the COU has suffered from a
-    > consistent illegibility problem, for instance being frequently
-    > confused with the Training Team.
+- Despite an explicit operating model, the COU has suffered from a
+  consistent illegibility problem, for instance being frequently
+  confused with the Training Team.
 
-  - > One effect was a perceived need to frequently justify the COU's
-    > budget and approach through voluntary reports, often from the
-    > perspective of 'contact rates'. There was a feeling of
-    > disproportionate pressure and scrutiny on individuals, resulting
-    > in some welfare issues. **But do other teams and units regularly
-    > report on their outputs and outcomes? What would an analysis of
-    > proportionate input/output/outcome of different teams reveal about
-    > the relative efficacy?** Would we deem the general scepticism
-    > towards the COU to be justified? **This has not been possible to
-    > conduct without breakdowns of budget and substantial data**, but a
-    > more consistent and universal approach to the scrutiny experienced
-    > by the COU could positively orient party culture in the direction
-    > of action, rather than turf.
+- One effect was a perceived need to frequently justify the COU's
+  budget and approach through voluntary reports, often from the
+  perspective of 'contact rates'. There was a feeling of
+  disproportionate pressure and scrutiny on individuals, resulting
+  in some welfare issues. **But do other teams and units regularly
+  report on their outputs and outcomes? What would an analysis of
+  proportionate input/output/outcome of different teams reveal about
+  the relative efficacy?** Would we deem the general scepticism
+  towards the COU to be justified? **This has not been possible to
+  conduct without breakdowns of budget and substantial data**, but a
+  more consistent and universal approach to the scrutiny experienced
+  by the COU could positively orient party culture in the direction
+  of action, rather than turf.
 
-  - > Ironically, in attempting to support election-time canvassing
-    > through persuasive conversation training, there was a general
-    > puzzlement as to why the COU was not instead doing community
-    > organising and in some cases the critique was levelled at the unit
-    > about why precious canvassing time was being diverted into
-    > training.
+- Ironically, in attempting to support election-time canvassing
+  through persuasive conversation training, there was a general
+  puzzlement as to why the COU was not instead doing community
+  organising and in some cases the critique was levelled at the unit
+  about why precious canvassing time was being diverted into
+  training.
 
-  - > An organisational focus on Voter ID has had long-term effects on
-    > infrastructure. The commission noted generally positive feedback
-    > about the tools Contact Creator, Insight and Mosaic 6 which
-    > critically support the Voter ID-oriented party operations. By
-    > comparison, tools that supported activities other than
-    > straightforward doorknocking including Organise, Connects,
-    > Promote, Dialogue and Doorstep were much less reliably available,
-    > useful or approved of by members, to the detriment of more general
-    > campaign and party operations.
+- An organisational focus on Voter ID has had long-term effects on
+  infrastructure. The commission noted generally positive feedback
+  about the tools Contact Creator, Insight and Mosaic 6 which
+  critically support the Voter ID-oriented party operations. By
+  comparison, tools that supported activities other than
+  straightforward doorknocking including Organise, Connects,
+  Promote, Dialogue and Doorstep were much less reliably available,
+  useful or approved of by members, to the detriment of more general
+  campaign and party operations.
 
 Graf’s recommendations in the aftermath of the 2015 general election in
 comparison to the 2011 recommendations in their focus on cultural change
@@ -538,91 +538,91 @@ analysis.
 To encourage greater accessibility and transparency between party and
 community.
 
-  - > All general meetings to be made available to the public and
-    > advertised as forums to discuss local issues.**  
-    > **
+- All general meetings to be made available to the public and
+  advertised as forums to discuss local issues.\*\*  
+  \*\*
 
-  - > Encourage and fund delegations of members to meet with members in
-    > neighbouring branches and constituencies and regions for
-    > educational visits and solidarity-building.
+- Encourage and fund delegations of members to meet with members in
+  neighbouring branches and constituencies and regions for
+  educational visits and solidarity-building.
 
-  - > Press ahead with supporter network and community group
-    > memberships.
+- Press ahead with supporter network and community group
+  memberships.
 
-  - > Increase the ratio of regional organisers to central office staff
-    > supported by a Constituency Development Budget.
+- Increase the ratio of regional organisers to central office staff
+  supported by a Constituency Development Budget.
 
-  - > Roll-out of political organising weekend and weeknight courses in
-    > target seats, accessible to any member and aimed at different
+- Roll-out of political organising weekend and weeknight courses in
+  target seats, accessible to any member and aimed at different
 
-  - > Start measuring different aspects of election readiness, and make
-    > all data for all constituencies should be publicly accessible via
-    > an analytics web page. This will ensure transparency and pressure
-    > to face up to the facts.
+- Start measuring different aspects of election readiness, and make
+  all data for all constituencies should be publicly accessible via
+  an analytics web page. This will ensure transparency and pressure
+  to face up to the facts.
 
-> Measurements might include:
+Measurements might include:
 
-  - > **"Residents per active monthly member" ratio** — check whether
-    > members have shown up each month with a tick box. Can be
-    > self-reported and/or noted by constituency organisers/officers.
+- **"Residents per active monthly member" ratio** — check whether
+  members have shown up each month with a tick box. Can be
+  self-reported and/or noted by constituency organisers/officers.
 
-  - > **Three month rolling new members  
-    > **
+- **Three month rolling new members  
+  **
 
-  - > **Three month rolling lapsed members  
-    > **
+- **Three month rolling lapsed members  
+  **
 
-  - > **Digital access rate (%)** of CLP and BLP officers with
-    > self-reported correct **access** to core tools like Organise,
-    > Contact Creator, Insight, Promote, Connects.
+- **Digital access rate (%)** of CLP and BLP officers with
+  self-reported correct **access** to core tools like Organise,
+  Contact Creator, Insight, Promote, Connects.
 
 <!-- end list -->
 
-  - > Measurements of “contact rates” should be more nuanced if they are
-    > to be used as a north star for party organising. At present they
-    > privilege aggregate “official” party activity directed at
-    > individualised voters, rather than everyday interactions between
-    > party members and their fellow community neighbours.
-    
-      - > **Three month rolling contact rate  
-        > **
-    
-      - > **Average age of party preference report  
-        > **
-    
-      - > **Monthly rolling weekly resident contacts per councillor /
-        > organiser / caseworker  
-        > **
-    
-      - > **Diarised casework and resident contact activities by elected
-        > officials such as councillors, MPs**
+- Measurements of “contact rates” should be more nuanced if they are
+  to be used as a north star for party organising. At present they
+  privilege aggregate “official” party activity directed at
+  individualised voters, rather than everyday interactions between
+  party members and their fellow community neighbours.
 
-  - > A national listening campaign which also builds visibility, local
-    > party activity, leading to a handful of national campaigns per
-    > year, that can link the air war and local organising. E.g. renter
-    > rights, £10 min wage. This would simplify production of generic
-    > assets and build visibility/material results/organic links between
-    > local party members and community**  
-    > **
+  - **Three month rolling contact rate  
+    **
 
-  - > Political and communication strategy and production should be much
-    > more focused on the story of "us, not me" community relationships,
-    > consensus-building, policy-design and organising by communities
-    > themselves, rather than the menu of output policies.
+  - **Average age of party preference report  
+    **
 
--------------
+  - **Monthly rolling weekly resident contacts per councillor /
+    organiser / caseworker  
+    **
+
+  - **Diarised casework and resident contact activities by elected
+    officials such as councillors, MPs**
+
+- A national listening campaign which also builds visibility, local
+  party activity, leading to a handful of national campaigns per
+  year, that can link the air war and local organising. E.g. renter
+  rights, £10 min wage. This would simplify production of generic
+  assets and build visibility/material results/organic links between
+  local party members and community\*\*  
+  \*\*
+
+- Political and communication strategy and production should be much
+  more focused on the story of "us, not me" community relationships,
+  consensus-building, policy-design and organising by communities
+  themselves, rather than the menu of output policies.
+
+---
 
 1.  ‘Diagnosis of Defeat: Labour’s Turn to Smell the Coffee’ (Lord
     Ashcroft Polls, 10 February 2020), 17,
     https://lordashcroftpolls.com/2020/02/diagnosis-of-defeat-labours-turn-to-smell-the-coffee/.
 
 2.  Kate Proctor, ‘Labour’s Canvassing Strategy Had “Major
-    Deficiencies”, Leaked Report Says’, *The Guardian*, 7 February
+    Deficiencies”, Leaked Report Says’, _The Guardian_, 7 February
     2020, sec. Politics,
     https://www.theguardian.com/politics/2020/feb/07/labours-canvassing-strategy-had-major-deficiencies-leaked-report-says.
 
 3.  Rowenna Davis, ‘Arnie Graf: The Man Ed Miliband Asked to Rebuild
-    Labour’, *The Guardian*, 21 November 2012, sec. Politics,
+    Labour’, _The Guardian_, 21 November 2012, sec. Politics,
     https://www.theguardian.com/politics/2012/nov/21/arnie-graf-labour-party-miliband.
 
 4.  ‘Labour’s Path Back to Power Will Be through on-the-Ground Activism
@@ -641,14 +641,14 @@ community.
     LabourList, 19 January 2020,
     https://labourlist.org/2020/01/organising-is-in-our-dna-now-we-need-it-more-than-ever/;
     John Harris, ‘A Labour Revival Must Tap into the Energy for Change
-    on the Ground | John Harris’, *The Guardian*, 15 December 2019, sec.
+    on the Ground | John Harris’, _The Guardian_, 15 December 2019, sec.
     Opinion,
     https://www.theguardian.com/commentisfree/2019/dec/15/labour-revival-change-community-activists-plymouth.
 
 5.  ‘Diagnosis of Defeat’, 17.
 
-6.  Saul David Alinsky, *Rules for Radicals: A Practical Primer for
-    Realistic Radicals*, Vintage Books ed (New York: Vintage Books,
+6.  Saul David Alinsky, _Rules for Radicals: A Practical Primer for
+    Realistic Radicals_, Vintage Books ed (New York: Vintage Books,
     1989).
 
 7.  ‘Labour’s Failure Had Little to Do with Organisers in the Field’,
