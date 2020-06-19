@@ -2,30 +2,23 @@
 
 [<span class="underline">Contents</span>](#contents)
 
-> [<span class="underline">Key insights</span>](#key-insights)
-> 
-> [<span class="underline">The challenge of objectively evaluating the
-> party</span>](#the-challenge-of-objectively-evaluating-the-party)
-> 
-> [<span class="underline">Headquarters strategy and
-> communications</span>](#headquarters-strategy-and-communications)
-> 
-> [<span class="underline">2019</span>](#section)
-> 
-> [<span class="underline">The challenge of an active
-> membership</span>](#the-challenge-of-an-active-membership)
-> 
-> [<span class="underline">Membership as a
-> process</span>](#membership-as-a-process)
-> 
-> [<span class="underline">Experiments in community
-> organising</span>](#experiments-in-community-organising)
-> 
-> [<span class="underline">Experimentation and party
-> culture</span>](#experimentation-and-party-culture)
-> 
-> [<span class="underline">Recommendations: community, membership and
-> constituency</span>](#recommendations-community-membership-and-constituency)
+[<span class="underline">Key insights</span>](#key-insights)
+
+[<span class="underline">The challenge of objectively evaluating the party</span>](#the-challenge-of-objectively-evaluating-the-party)
+
+[<span class="underline">Headquarters strategy and communications</span>](#headquarters-strategy-and-communications)
+
+## 2019
+
+[<span class="underline">The challenge of an active membership</span>](#the-challenge-of-an-active-membership)
+
+[<span class="underline">Membership as a process</span>](#membership-as-a-process)
+
+[<span class="underline">Experiments in community organising</span>](#experiments-in-community-organising)
+
+[<span class="underline">Experimentation and party culture</span>](#experimentation-and-party-culture)
+
+[<span class="underline">Recommendations: community, membership and constituency</span>](#recommendations-community-membership-and-constituency)
 
 Given the situation the party finds itself in, the scale of the defeat
 and challenge ahead, this report aims to (a) give clarity and creative
