@@ -382,10 +382,10 @@ there are many). The challenges of working in this environment were
 compounded by the highly factionalised and contentious atmosphere that
 has continued to present.
 
-"It felt like being a bull in the china shop but the china is
-invisible.”
-
-— An interviewee familiar with the digital transformation project
+> It felt like being a bull in the china shop but the china is
+> invisible.
+>
+> — An interviewee familiar with the digital transformation project
 
 Despite six months of work, staff noted they had not once been able to
 gain access to key tools like Contact Creator despite direct requests to
@@ -488,7 +488,7 @@ Comments from staff seem to reflect this organisational structure:
 > team... some of that is just in terms of security or leaking and that
 > kind of thing.”  
 > — staffer who was hired more than three years ago
-
+>
 > “It was fucking chaos, no one knew what was going on day-to-day”
 >
 > “Overall chaos of the grid”
@@ -697,14 +697,14 @@ collectively send letters to party management.
 Areas of opportunity for the Organise platform, or an alternate contact
 management system include:
 
-- > Integrate with voter data (e.g. Contact Creator), so that voters
-  > can be identified as supporters and moved towards party activism.
+- Integrate with voter data (e.g. Contact Creator), so that voters
+  can be identified as supporters and moved towards party activism.
 
 <!-- end list -->
 
-- > Training local party organisers in effective digital organising
-  > using existing digital tools and methodologies. Examples include
-  > wall-charting, community mapping and social media good practice.
+- Training local party organisers in effective digital organising
+  using existing digital tools and methodologies. Examples include
+  wall-charting, community mapping and social media good practice.
 
 # Recommendations
 
@@ -713,83 +713,85 @@ changes that should be considered.
 
 ## Organisational change
 
-- > Any plan is better than no plan. The Labour Party must always have
-  > an objective that is shared amongst the team.
+- Any plan is better than no plan. The Labour Party must always have
+  an objective that is shared amongst the team.
 
-- > No more restricting the flow of information about basic
-  > operational matters like scheduling. No campaign is worth
-  > sacrificing team coordination for a spectacular reveal. Find a
-  > better strategy.
+- No more restricting the flow of information about basic
+  operational matters like scheduling. No campaign is worth
+  sacrificing team coordination for a spectacular reveal. Find a
+  better strategy.
 
-- > Re-role a whole wrung of managers to field organiser functions, to
-  > cut down on managers and increase the work that is done and the
-  > understanding on the ground about the work to be done.
+- Re-role a whole wrung of managers to field organiser functions, to
+  cut down on managers and increase the work that is done and the
+  understanding on the ground about the work to be done.
 
 ## Digital team change
 
-- > Hire a substantial full-time permanent digital organizing team of
-  > 3x developers, 1x product designer, 1x user researcher to
-  > accompany the existing team lead, developer and product manager.
+- Hire a substantial full-time permanent digital organizing team of
+  3x developers, 1x product designer, 1x user researcher to
+  accompany the existing team lead, developer and product manager.
 
-- > More than an ad-hoc digital strategy is required to facilitate the
-  > digital estate of a party of 500,000 members with an annual
-  > revenue of £60,000,000 and dozens of digital systems.
+- More than an ad-hoc digital strategy is required to facilitate the
+  digital estate of a party of 500,000 members with an annual
+  revenue of £60,000,000 and dozens of digital systems.
 
-- > Digital space should be considered a core component of the party’s
-  > electoral strategy, as it is an increasingly influential space
-  > through which voter opinion evolves.
+- Digital space should be considered a core component of the party’s
+  electoral strategy, as it is an increasingly influential space
+  through which voter opinion evolves.
 
 ## Programmes and initiatives
 
-- > Make a medium-term commitment to disengage from Experian and end
-  > consumer surveillance as an electoral tool as a matter of
-  > principle. In order to do this, the Labour Party will have to
-  > commit to exploring and doubling down on alternative, less
-  > individualising and atomising forms of political organising that
-  > rely less on microtargeting — reliant on HQ — and more on
-  > relational organising — reliant on everyday members.
+- Make a medium-term commitment to disengage from Experian and end
+  consumer surveillance as an electoral tool as a matter of
+  principle. In order to do this, the Labour Party will have to
+  commit to exploring and doubling down on alternative, less
+  individualising and atomising forms of political organising that
+  rely less on microtargeting — reliant on HQ — and more on
+  relational organising — reliant on everyday members.
 
-- > Mass programmes of digital tool training for members, officers,
-  > staff are required to leverage the existing tools at their
-  > disposal.
+- Mass programmes of digital tool training for members, officers,
+  staff are required to leverage the existing tools at their
+  disposal.
 
-- > A streamlined and standardised system for granting access to
-  > critical digital tools for organising, visible to all party
-  > members, to ensure the right people have credentials for the right
-  > tools.
+- A streamlined and standardised system for granting access to
+  critical digital tools for organising, visible to all party
+  members, to ensure the right people have credentials for the right
+  tools.
 
-- > Legal clarity around the practicalities of GDPR and organising is
-  > urgently required, available to all party members.
+- Legal clarity around the practicalities of GDPR and organising is
+  urgently required, available to all party members.
 
-- > A public roadmap of what is being built / fixed / improved in the
-  > next while. It is de rigueur for digital teams to have a public
-  > roadmap in commercial products.
+- A public roadmap of what is being built / fixed / improved in the
+  next while. It is de rigueur for digital teams to have a public
+  roadmap in commercial products.
+
+<!-- end list -->
+
+- Digital tool uptime figures for all tools, with a central channel
+  for status reports, to address the problem of uncertainty around
+  digital tools’ availability.\*\*  
+  \*\*![](.//media/image4.png)
+
+Such systems also enable this to be tracked. The aim is not to
+apportion blame but to highlight to party leadership and the
+membership at large what the scale of the problem is, so that informed
+decision making can occur.
+
+- Develop a strategy for an open technology platform that third
+  party developers and activists can use to facilitate their own
+  organising through the party, and contribute back to the system
+  through hackathons and volunteer management.
+
+- Existing digital tools need to be vetted for their
+  mobile-responsiveness and availability when offline or out of
+  signal, for example in rural areas or high-rise tower blocks. More
+  generally, accessibility needs to be upheld as a core principle in
+  the Labour Party staff development community and facilitated by
+  management through funding.
 
 <!-- end list -->
 
-- > Digital tool uptime figures for all tools, with a central channel
-  > for status reports, to address the problem of uncertainty around
-  > digital tools’ availability.\*\*  
-  > \*\*![](.//media/image4.png)
-
-> Such systems also enable this to be tracked. The aim is not to
-> apportion blame but to highlight to party leadership and the
-> membership at large what the scale of the problem is, so that informed
-> decision making can occur.
-
-- > Develop a strategy for an open technology platform that third
-  > party developers and activists can use to facilitate their own
-  > organising through the party, and contribute back to the system
-  > through hackathons and volunteer management.
-
-- > Existing digital tools need to be vetted for their
-  > mobile-responsiveness and availability when offline or out of
-  > signal, for example in rural areas or high-rise tower blocks. More
-  > generally, accessibility needs to be upheld as a core principle in
-  > the Labour Party staff development community and facilitated by
-  > management through funding.
-
-<!-- end list -->
+---
 
 1.  See
     [<span class="underline">https://www.codersforlabour.com/</span>](https://www.codersforlabour.com/)
