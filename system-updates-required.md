@@ -769,8 +769,9 @@ changes that should be considered.
 
 - Digital tool uptime figures for all tools, with a central channel
   for status reports, to address the problem of uncertainty around
-  digital tools’ availability.\*\*  
-  \*\*![](.//media/image4.png)
+  digital tools’ availability.
+
+  ![](.//media/image4.png)
 
 Such systems also enable this to be tracked. The aim is not to
 apportion blame but to highlight to party leadership and the
