@@ -1,3 +1,9 @@
+# System updates required: ground operations and digital technology
+
+Common Knowledge's submission to the Labour Together's report on Labour in the 2019 General Election.
+
+The other is [In lieu of strategy: ground operations and organisational structure](in-lieu-of-strategy.md).
+
 # Contents
 
 [<span class="underline">How Labour does digital</span>](#section)
