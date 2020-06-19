@@ -50,3 +50,21 @@ To produce these we embraced a range of techniques.
 We looked in detail at the online survey of 11,060 people conducted by Labour Together, taking a largely qualitative and exploratory approach, while others handled more quantitative aspects of the survey.
 
 We then interviewed people from across the campaign. From Labour HQ, to members of the leadership team, to regional staffers, to members of the Community Organising Unit, to those who had engaged in digital work for Labour across many years prior to the Corbyn era.
+
+## Thanks
+
+We'd like to thank the review staff for being kind enough to commission us. We'd like to thank in particular Hannah O’Rourke for allowing us to follow our interests and instincts as far as anyone could hope for.
+
+We'd like to thank the other commissioners also, if nothing else for their patience wth our continuous barrage of questions.
+
+There are a number of aspects of the report we would have placed different emphasis on, or spent more time with. We have some disagreements with its conclusions - partly always the case with group writing. These are for another day.
+
+Today, take a deep dive into these reports.
+
+You can get in touch with us on [hello@commonknowledge.coop](mailto:hello@commonknowledge.coop).
+
+[We are on Twitter](https://twitter.com/cmmonknowledge) and our direct messages are open.
+
+## Further Material
+
+We also published a more broad reflection on [our goals for the review on our website](https://commonknowledge.coop/writing/labour-together/).
