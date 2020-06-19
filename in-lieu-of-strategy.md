@@ -596,8 +596,7 @@ Measurements might include:
   year, that can link the air war and local organising. E.g. renter
   rights, £10 min wage. This would simplify production of generic
   assets and build visibility/material results/organic links between
-  local party members and community\*\*  
-  \*\*
+  local party members and community
 
 * Political and communication strategy and production should be much
   more focused on the story of "us, not me" community relationships,
